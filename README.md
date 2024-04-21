@@ -1,0 +1,1 @@
+Proyecto Didáctico en Rust + ESP32 Control de un motor paso a paso 28BYJ-48 con driver ULN2003 Usando librería no_std (no estándar) [esp-hal](https://docs.esp-rs.org/esp-hal/) y [esp-template](https://github.com/esp-rs/esp-template)
